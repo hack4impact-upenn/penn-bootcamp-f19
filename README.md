@@ -1,1 +1,5 @@
-# penn-bootcamp-f18
+# Bootcamp 2018
+
+## Add your name here :)
+* Stephanie Shi
+* Katie Jiang
