@@ -3,5 +3,5 @@
 ## Add your name here :)
 * Stephanie Shi
 * Katie Jiang
-* Vaibhaw Ladha 
-* Vaibhaw2Ladha
+* Vaibhaw Ladha
+* Amit Lohe
