@@ -4,4 +4,5 @@
 * Stephanie Shi
 * Katie Jiang
 * Vaibhaw Ladha
+* Sarah Raines
 * Amit Lohe
