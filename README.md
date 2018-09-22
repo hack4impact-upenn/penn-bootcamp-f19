@@ -4,3 +4,4 @@
 * Stephanie Shi
 * Katie Jiang
 * Vaibhaw Ladha 
+* Jediah Katz
