@@ -3,5 +3,7 @@
 ## Add your name here :)
 * Stephanie Shi
 * Katie Jiang
-* Vaibhaw Ladha 
+* Vaibhaw Ladha
 * Annie Su
+* Sarah Raines
+* Amit Lohe
