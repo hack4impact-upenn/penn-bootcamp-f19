@@ -5,3 +5,7 @@
 * Katie Jiang
 * Vaibhaw Ladha 
 * Ivan Esmeral
+* Vaibhaw Ladha
+* Annie Su
+* Sarah Raines
+* Amit Lohe
