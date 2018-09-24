@@ -4,7 +4,8 @@
 * Stephanie Shi
 * Katie Jiang
 * Natalie Wiegand :P
-* Vaibhaw Ladha
+* Vaibhaw Ladha 
+* Ivan Esmeral
 * Annie Su
 * Sarah Raines
 * Amit Lohe
