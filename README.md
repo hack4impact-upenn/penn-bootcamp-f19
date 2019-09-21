@@ -1,15 +1,5 @@
-# Bootcamp 2018
+# Bootcamp 2019
 
 ## Add your name here :)
-* Stephanie Shi
-* Katie Jiang
-* Natalie Wiegand :P
-* Vaibhaw Ladha 
-* Ivan Esmeral
-* Annie Su
-* Sarah Raines
-* Amit Lohe
-* Charles Zhang
-* testing again!!!
-* Jamie Wang
+* Steven Bursztyn
 
